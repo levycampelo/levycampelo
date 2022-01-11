@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @levycampelo
-- 👀 I’m interested in new technologies, cloud and network automation
-- 🌱 I’m currently learning cloud and security
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm @levycampelo
+- 👀 I'm interested in new technologies, cloud and network automation
+- 🌱 I'm currently learning cloud and security
+- 💞️ I'm looking to collaborate on network automation 
 - 📫 How to reach me ...
 
 <!---
