@@ -2,7 +2,7 @@
 - I'm interested in new technologies, cloud and network automation
 - I'm currently learning cloud and security
 
-AWS
+OCI
 
 <!---
 levycampelo/levycampelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
