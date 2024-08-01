@@ -2,7 +2,7 @@
 
 👋 Hi, I'm @levycampelo
 
-I'm interested in DevOps, cloud and network automation
+I'm interested in DevOps, cloud and automation.
 
 <!---
 levycampelo/levycampelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
